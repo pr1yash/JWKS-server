@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha tests/**/*.test.js",
+    "coverage": "nyc npm test"
   },
   "keywords": [],
   "author": "",
