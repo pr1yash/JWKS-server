@@ -5,7 +5,7 @@ const { v4: uuidv4 } = require('uuid');
 const keys = [];
 
 //Function top generate a new RSA key pair
-async function genrateKeyPair(){
+async function generateKeyPair(){
     const keystore = jose.JWK.createKeyStore();
 
     //generating RSA key 

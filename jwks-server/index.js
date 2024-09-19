@@ -1,4 +1,5 @@
 const express = require('express');
+const routes = require('./routes'); //Import routes
 const app = express();
 const port = 8080;
 
