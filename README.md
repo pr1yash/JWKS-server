@@ -147,5 +147,5 @@ All files  |   86.88 |       85 |   86.66 |   86.44 |
  server.js |   86.88 |       85 |   86.66 |   86.44 | 17,26-27,76,83,116-117,127 
 -----------|---------|----------|---------|---------|----------------------------
 ```
-##Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
