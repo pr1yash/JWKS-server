@@ -115,11 +115,11 @@ app.use((err, req, res, next) => {
   console.error("Unhandled error:", err);
   res.status(500).json({ error: 'Internal Server Error' });
 });
-
-Testing
+```
+## Testing
 To test the server, you can use tools like Postman or curl to make requests to the endpoints.
 
-Test Results
+### Test Results
 The project includes tests for the JWKS server, error handling, and authentication endpoints. Here are the test results:
 
 priyashshah@Priyashs-MacBook-Air js2 % npm run coverage
