@@ -150,6 +150,8 @@ All files  |   86.88 |       85 |   86.66 |   86.44 |
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
+```
+
 ## Test-Client (GradeBot)
 
 Below is a screenshot of the test client running against my server: 
