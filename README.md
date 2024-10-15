@@ -1,5 +1,5 @@
 # JWKS-server 
-# Building a JWKS server that generates JSTs (JSON Web Tokens)
+# Building a JWKS server that generates JWTs (JSON Web Tokens)
 This project is a Node.js server that demonstrates JWT (JSON Web Token) generation and validation using the `express` and `node-jose` libraries. It includes endpoints for generating both valid and expired JWTs, as well as a simulated key failure for testing purposes.
 
 ## Table of Contents
